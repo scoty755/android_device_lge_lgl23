@@ -3,5 +3,5 @@
 set -e
 
 export VENDOR=lge
-export DEVICE=d802
-./../../$VENDOR/g2-common/setup-makefiles.sh $@
+export DEVICE=lgl23
+./../../$VENDOR/z-common/setup-makefiles.sh $@
