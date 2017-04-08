@@ -19,7 +19,7 @@ include device/lge/z-common/BoardConfigCommon.mk
 
 TARGET_KERNEL_CONFIG := lineageos_lgl23_defconfig
 
-TARGET_OTA_ASSERT_DEVICE := lgl23,z,galbi
+TARGET_OTA_ASSERT_DEVICE := lgl23,d950,z,galbi
 
 G2_DTS_TARGET := msm8974-z-kddi
 
