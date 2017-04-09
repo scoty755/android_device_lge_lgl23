@@ -17,7 +17,7 @@
 
 include device/lge/z-common/BoardConfigCommon.mk
 
-TARGET_KERNEL_CONFIG := lineageos_lgl23_defconfig
+#TARGET_KERNEL_CONFIG := lineageos_lgl23_defconfig
 
 TARGET_OTA_ASSERT_DEVICE := lgl23,d950,z,galbi
 
